@@ -7,6 +7,6 @@
 
 ##### [View Code (SalesAnalysis&Prediction.ipynb)](SalesAnalysis&Prediction.ipynb) for the detailed methods.
 
-##### Sample results are shown below
+##### Some selected results are shown below
 ![Demo](1.JPG)
 ![Demo](2.JPG)
